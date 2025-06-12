@@ -38,7 +38,7 @@ procurement budget.
 This repository has four Files:
 1. readme
 2. FullfilmentPlanAU.ipynb
-3. aa.zip
+3. aa.zip (via https://drive.google.com/drive/folders/1Ja8HhmGxn8Sb3TCYepifBNmb-XAnXVao?usp=sharing)
 4. exploring_aa_abs_values.ipynb
 
 ### File Description
